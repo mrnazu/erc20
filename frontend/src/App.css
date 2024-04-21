@@ -1,0 +1,65 @@
+body {
+  background: url('images/img-04.jpg') transparent;
+  background-color: #070709;
+  color: green;
+}
+
+.title {
+  color: green;
+  margin-bottom: 1 rem;
+}
+
+.box {
+  margin-top: 50px;
+}
+
+.panel {
+  margin-top: 2em;
+}
+
+.panel-heading {
+  xbackground-image: linear-gradient(to left,#38052F, #070709);
+  background-color: black;
+  color: green;
+}
+
+.address-box {
+  padding: 3em;
+}
+
+.box .title {
+  color: green;
+}
+
+.navbar {
+  background-color: black;
+}
+
+.navbar .navbar-item {
+  color: green;
+}
+
+.connect-wallet span {
+  color: black;
+}
+
+.connect-wallet:hover {
+  background-color: rgb(110, 123, 110) !important;
+  color: black;
+}
+
+.container.main-content {
+  max-width: 1000px !important;
+}
+
+.faucet-hero-body {
+  margin-top: 100px;
+}
+
+.withdraw-error {
+  color: green;
+}
+
+.withdraw-success {
+  color: green;
+}
